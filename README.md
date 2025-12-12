@@ -7,6 +7,9 @@ Um minigame de batalha Pokémon no terminal, desenvolvido em Python usando conce
 Esse pequeno projeto simula uma batalha ente dois Pokémons escolhidos pelo próprio usuário, diretamente no terminal.
 Cada Pokémon possui um tipo para ser escolhido (Água, Fogo ou Planta), dano base e um ataque especial que modifica o dano final considerando vantagens elementais, assim como na franquia pokémon mesmo.
 
+### Diagrama UML ☆
+<img width="836" height="537" alt="pokemon diagrama poo" src="https://github.com/user-attachments/assets/f89eb44b-e55e-4eed-814f-ffff9f4d9b66" />
+
 ## Funcionalidades ☆:
 
 - Escolha interativa de dois Pokémons pelo usuário, com opções de tipo: Água, Fogo ou Planta.
